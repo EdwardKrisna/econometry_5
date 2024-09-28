@@ -1,6 +1,6 @@
 # Birth Weight Analysis
 
-This repository contains code and data for analyzing factors influencing birth weight using statistical models. The analysis primarily focuses on identifying the most significant predictors of low birth weight and evaluating model performance using various statistical tests.
+The analysis primarily focuses on identifying the most significant predictors of low birth weight and evaluating model performance using various statistical tests.
 
 **Note**: For a detailed explanation of the analysis, please refer to the [Birth Weight Analysis.pdf](Birth%20Weight%20Analysis.pdf) file.
 
